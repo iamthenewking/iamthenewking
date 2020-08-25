@@ -1,3 +1,3 @@
 ## Holla!
 
-Hi. I’m Jeff. I fork lots of demos for eduducational purposes :)
+Hi. I’m Jeff. I fork lots of demos for educational purposes :)
