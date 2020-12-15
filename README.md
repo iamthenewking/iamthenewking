@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeff</h1>
-<h3 align="center">A passionate Fullstack developer from the philippines</h3>
+<h3 align="center">A passionate Fullstack developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamthenewking" alt="iamthenewking" /> </p>
 
