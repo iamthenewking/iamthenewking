@@ -3,9 +3,12 @@
 
  
 
+
 - 🔭 I’m currently working as **A full stack web developer**
 
-- 🌱 I’m currently learning **React**
+- i love @jekyll @hugo
+
+- 🌱 I’m currently learning **React** 
 
 - 📫 How to reach me **mrgabonijeff@gmail.com**
 
