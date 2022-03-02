@@ -9,15 +9,24 @@
 
  
 ### Hi 👋, I'm Jeff
-***Bro @ [Webdev +](https://webdevpl.us/)*** 
+***Developer and SEO Specialist @ [Webdev +](https://webdevpl.us/)*** 
+
+***Content Writer at [Internet Daily Deals](https://www.internetdailydeals.com/) And [Zooted](https://zooted.me/)***
+
+
 
 
 - 🔭 I’m currently working as **A full stack web developer** 
 
 - I don't have any Open-source projects of my own but I try to help out on ones I use whenever I can.
 
-- ❤️‍  love building website with [@jekyll](https://github.com/jekyll) and [@hugo](https://github.com/gohugoio)
+- ❤️‍  love building website with [@jekyll](https://github.com/jekyll) ,  [@hugo](https://github.com/gohugoio)  ,  [@Gatsby](https://github.com/gatsbyjs/gatsby) 
+ ,  [@NextJS](https://github.com/vercel/next.js) and  [many more](https://jamstack.org/generators/)
+ 
 
 - 🌱 I’m currently learning **React** 
 
 - 📫 How to reach me **mrgabonijeff@gmail.com**
+
+
+
