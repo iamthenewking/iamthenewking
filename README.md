@@ -8,7 +8,7 @@
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=raviriley&theme=dark&count_private=true&include_all_commits=true&hide=issues,contribs&show_icons=true&custom_title=GitHub stats" alt="Ravi's GitHub stats">
 
  
-### Hi 👋, I'm Jeff<
+### Hi 👋, I'm Jeff
 ***Bro @ [Webdev +](https://webdevpl.us/)*** 
 
 
