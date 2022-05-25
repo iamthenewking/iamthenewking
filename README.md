@@ -9,9 +9,8 @@
 
  
 ### Hi 👋, I'm Jeff
-***Developer and SEO Specialist @ [Webdev +](https://webdevpl.us/)*** 
-
-***Content Writer at [Internet Daily Deals](https://www.internetdailydeals.com/) And [Zooted](https://zooted.me/)***
+***Developer and SEO Specialist  
+ 
 
 
 
