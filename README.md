@@ -9,7 +9,7 @@
 
  
 ### Hi 👋, I'm Jeff
-***Developer and SEO Specialist  
+***Developer and SEO Specialist***
  
 
 
