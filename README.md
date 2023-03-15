@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **React** 
 
-- 📫 How to reach me **mrgabonijeff@gmail.com**
+ 
 
 
 
