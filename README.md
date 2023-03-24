@@ -1,12 +1,9 @@
 
 ### Hi 👋, I'm J
-***Developer and SEO Specialist***
+***Developer turned SEO Specialist***
  
 
-
-
-
-- 🔭 I’m currently working as **A full stack web developer** 
+- 🔭 I’m currently working as **A fulltime SEO** 
 
 - I don't have any Open-source projects of my own but I try to help out on ones I use whenever I can.
 
