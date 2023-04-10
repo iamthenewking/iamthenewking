@@ -1,5 +1,6 @@
 
-### Hi 👋, I'm J
+### Hi 👋, I'm Jeff
+
 ***Developer turned SEO Specialist***
  
 
